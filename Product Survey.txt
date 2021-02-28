@@ -1,0 +1,32 @@
+Section A: Demographic
+- age group
+- gender
+- state (residential)
+- employment status
+- salary range (per month)
+
+Section B: Personal Features
+- what is your most used means of transport? (personal vehicle, commercial privates like uber, bolt, drops etc, trekking, public transport)
+- how often do you leave your house (for any purpose)?
+- how do you usually go out for your recreational activities? (with family, with friends, with partner, or by yourself)
+
+Section C: Underlying Issue
+- have you ever been harrassed in a public or private space?
+- considering one of the most significant confrontations you've had, how populated was the area? (populated or secluded)
+- nature of the confrontation? (agressive or not agressive)
+- were you at any point during this confrontation worried about your safety or that of your property?
+- were you alone or with someone familiar?
+
+Section D: Possible Solution
+- do you think if the harasser(s) felt they were being watched, or evidence of their actions could be used against them, they would have acted differently?
+- did you at any point during this confrontation consider recording the situation with your phone? 
+- if no, looking back at the situation, should you have considered recording the situation with your phone?
+- if yes for any of the immediate previous two questions, why? (accountability, fear for your life, fear of destruction of property, online awareness, potential evidence for lawsuit)
+- if no, why? (didn't feel it was necessary, fear for your life, fear of destruction of property upon discovery, didn't feel the stress that would come from it was worth the attempt, ease of accessibility of phone's camera)
+- did you eventually record with your phone?
+- if yes, where you worried about the destruction of your phone?
+- What worried you the most about using your phone (whether you recorded or not)? (expense of getting a new phone, loss of important files, loss of the recorded video)
+- if cheaper devices were made just for this purpose, would you buy for back up purposes?
+- how much will you be willing to pay for such a product?
+- assuming the price of such a product is outside your comfort range, what's the maximum amount you would not be willing to go above?
+- what other situations do you think such a product would come in handy?
